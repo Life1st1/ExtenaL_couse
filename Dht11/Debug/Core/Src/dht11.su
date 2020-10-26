@@ -1,0 +1,8 @@
+dht11.c:10:6:B5In	4	static
+dht11.c:15:6:B5Out	4	static
+dht11.c:20:9:DHT11_Init	8	static
+dht11.c:27:6:DHT11_Rst	8	static
+dht11.c:35:9:DHT11_Check	16	static
+dht11.c:48:9:DHT11_Read_Bit	16	static
+dht11.c:60:9:DHT11_Read_Byte	16	static
+dht11.c:73:9:DHT11_Read_Data	32	static
